@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/https://github.com/MernaFekry/To-Do-List-React.git/static/css/main.ab7525cc.css",
-    "main.js": "/https://github.com/MernaFekry/To-Do-List-React.git/static/js/main.84a05853.js",
-    "static/js/787.a5cad257.chunk.js": "/https://github.com/MernaFekry/To-Do-List-React.git/static/js/787.a5cad257.chunk.js",
-    "static/media/bg4.jpg": "/https://github.com/MernaFekry/To-Do-List-React.git/static/media/bg4.c01c0d97ae5d56e53c29.jpg",
-    "static/media/bg5.jpg": "/https://github.com/MernaFekry/To-Do-List-React.git/static/media/bg5.e06fe96bba61166501a9.jpg",
-    "static/media/fa-solid-900.ttf": "/https://github.com/MernaFekry/To-Do-List-React.git/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
-    "static/media/fa-brands-400.ttf": "/https://github.com/MernaFekry/To-Do-List-React.git/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
-    "static/media/fa-solid-900.woff2": "/https://github.com/MernaFekry/To-Do-List-React.git/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
-    "static/media/fa-brands-400.woff2": "/https://github.com/MernaFekry/To-Do-List-React.git/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
-    "static/media/fa-regular-400.ttf": "/https://github.com/MernaFekry/To-Do-List-React.git/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
-    "static/media/fa-regular-400.woff2": "/https://github.com/MernaFekry/To-Do-List-React.git/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
-    "static/media/fa-v4compatibility.ttf": "/https://github.com/MernaFekry/To-Do-List-React.git/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
-    "static/media/fa-v4compatibility.woff2": "/https://github.com/MernaFekry/To-Do-List-React.git/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
-    "index.html": "/https://github.com/MernaFekry/To-Do-List-React.git/index.html",
-    "main.ab7525cc.css.map": "/https://github.com/MernaFekry/To-Do-List-React.git/static/css/main.ab7525cc.css.map",
-    "main.84a05853.js.map": "/https://github.com/MernaFekry/To-Do-List-React.git/static/js/main.84a05853.js.map",
-    "787.a5cad257.chunk.js.map": "/https://github.com/MernaFekry/To-Do-List-React.git/static/js/787.a5cad257.chunk.js.map"
+    "main.css": "/To-Do-List-React/static/css/main.90c9eb25.css",
+    "main.js": "/To-Do-List-React/static/js/main.79647403.js",
+    "static/js/787.a5cad257.chunk.js": "/To-Do-List-React/static/js/787.a5cad257.chunk.js",
+    "static/media/bg4.jpg": "/To-Do-List-React/static/media/bg4.c01c0d97ae5d56e53c29.jpg",
+    "static/media/bg5.jpg": "/To-Do-List-React/static/media/bg5.e06fe96bba61166501a9.jpg",
+    "static/media/fa-solid-900.ttf": "/To-Do-List-React/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/To-Do-List-React/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/To-Do-List-React/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/To-Do-List-React/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/To-Do-List-React/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/To-Do-List-React/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/To-Do-List-React/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/To-Do-List-React/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/To-Do-List-React/index.html",
+    "main.90c9eb25.css.map": "/To-Do-List-React/static/css/main.90c9eb25.css.map",
+    "main.79647403.js.map": "/To-Do-List-React/static/js/main.79647403.js.map",
+    "787.a5cad257.chunk.js.map": "/To-Do-List-React/static/js/787.a5cad257.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab7525cc.css",
-    "static/js/main.84a05853.js"
+    "static/css/main.90c9eb25.css",
+    "static/js/main.79647403.js"
   ]
 }
