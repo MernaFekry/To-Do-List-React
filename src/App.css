@@ -1,38 +1,113 @@
-.App {
-  text-align: center;
+:root{
+  --primaryColor: rgb(38, 152, 205) ;
+  --secondaryColor: #59C1BD ;
+  --deleteColor : #EB5353 ;
+  /* --fourthColor : #A0E4CB ; */
+}
+/* rgb(210, 172, 212) */
+
+
+
+
+
+
+
+.subtitle i{
+  color: var(--secondaryColor)  !important;
+}
+.subtitle h1{
+  font-weight: bolder;
+  color: var(--primaryColor) !important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
+.app{
+  background-image: url('./images/bg5.jpg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.form-control{
+  background: transparent !important;
+  border: 2px solid var(--primaryColor) !important;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.taskRow{
+  
+}
+
+.taskRow{
+  padding: 0 2px;
+  border:1px solid lightgray;
+  position: relative;
+  user-select: none;
+  cursor: pointer;
+  border: 2px solid var(--primaryColor) !important;
+}
+.date{
+  color: #59C1BD;
+  font-weight: bolder;
+}
+.app form i{
+  right: 4%;
+  font-size: 25px;
+  color: var(--secondaryColor);
+}
+
+
+
+.task{
+  width: 85% !important; 
+}
+.taskRow i{
+  font-size: 25px;
+}
+.completed p{
+  text-decoration: line-through;
+  text-decoration-color: #df4759;
+}
+.completed{
+  background-color: var(--secondaryColor);
+}
+.completed i,.completed i:hover{
+  color: 	var(--deleteColor);
+}
+
+
+@media screen  and (min-width:280px) and (max-width:360px){
+  .app form i{
+    right: 18%;
   }
-  to {
-    transform: rotate(360deg);
+  .date{
+    text-align: center;
+  }
+  .subtitle h1{
+    text-align: center;
+  }
+  
+}
+
+@media screen  and (min-width:360px) and (max-width:1101px){
+  .app form i{
+    right: 15%;
+  }
+  .app form{
+    width: 100% !important;
+  }
+  .form-control{
+    margin-left: 15px;
+  }
+  .date{
+    text-align: center;
+  }
+  .subtitle h1{
+    text-align: center;
+  }
+}
+
+@media screen  and (min-width:486px) and (max-width:1101px){
+  .app form i{
+    right: 10%;
+    
   }
 }
